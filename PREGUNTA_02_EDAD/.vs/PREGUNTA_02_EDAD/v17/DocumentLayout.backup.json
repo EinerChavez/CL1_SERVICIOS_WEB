@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|c:\\servicios web 1\\examen_t1\\pregunta_02_edad\\pregunta_02_edad\\views\\home\\edades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|solutionrelative:pregunta_02_edad\\views\\home\\edades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|c:\\servicios web 1\\examen_t1\\pregunta_02_edad\\pregunta_02_edad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|solutionrelative:pregunta_02_edad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|c:\\servicios web 1\\examen_t1\\pregunta_02_edad\\pregunta_02_edad\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|solutionrelative:pregunta_02_edad\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|c:\\servicios web 1\\examen_t1\\pregunta_02_edad\\pregunta_02_edad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|solutionrelative:pregunta_02_edad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|c:\\servicios web 1\\examen_t1\\pregunta_02_edad\\pregunta_02_edad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FA92C-5BF3-44DA-A729-5BEA5C78E053}|PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD.csproj|solutionrelative:pregunta_02_edad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_02_EDAD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PREGUNTA_02_EDAD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:22:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_02_EDAD\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PREGUNTA_02_EDAD\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T23:10:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edades.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Home\\Edades.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_02_EDAD\\Views\\Home\\Edades.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Home\\Edades.cshtml",
+              "RelativeToolTip": "PREGUNTA_02_EDAD\\Views\\Home\\Edades.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T23:07:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_02_EDAD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PREGUNTA_02_EDAD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T23:02:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_02_EDAD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1\\PREGUNTA_02_EDAD\\PREGUNTA_02_EDAD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PREGUNTA_02_EDAD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T23:02:03.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

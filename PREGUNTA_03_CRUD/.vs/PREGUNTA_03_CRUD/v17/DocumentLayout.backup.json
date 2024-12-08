@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\examenventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\examenventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\controllers\\examenventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\controllers\\examenventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\examenventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\examenventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\examenventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\examenventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\examenventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\examenventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\views\\examenventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\views\\examenventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\data\\pregunta_03_crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\data\\pregunta_03_crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|c:\\servicios web 1\\examen_t1_einer_chavez_aguilar\\pregunta_03_crud\\pregunta_03_crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592382EC-A1B7-48F4-9C6E-4A6C5B5F9B26}|PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD.csproj|solutionrelative:pregunta_03_crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T02:30:09.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:49:09.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\appsettings.json",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\appsettings.json",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T00:51:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:46:52.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Index.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Index.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Index.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T00:39:22.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamenVentasController.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Controllers\\ExamenVentasController.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Controllers\\ExamenVentasController.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Controllers\\ExamenVentasController.cs",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Controllers\\ExamenVentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:38:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Program.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Program.cs",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:19:14.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Create.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Create.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Create.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:37:45.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Delete.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Delete.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:39:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Details.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Details.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Details.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:40:29.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Models\\Venta.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Models\\Venta.cs",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:23:07.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Edit.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Edit.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\ExamenVentas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:41:17.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:46:44.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:47:14.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PREGUNTA_03_CRUDContext.cs",
+              "DocumentMoniker": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Data\\PREGUNTA_03_CRUDContext.cs",
+              "RelativeDocumentMoniker": "PREGUNTA_03_CRUD\\Data\\PREGUNTA_03_CRUDContext.cs",
+              "ToolTip": "C:\\SERVICIOS WEB 1\\EXAMEN_T1_EINER_CHAVEZ_AGUILAR\\PREGUNTA_03_CRUD\\PREGUNTA_03_CRUD\\Data\\PREGUNTA_03_CRUDContext.cs",
+              "RelativeToolTip": "PREGUNTA_03_CRUD\\Data\\PREGUNTA_03_CRUDContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:46:43.61Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

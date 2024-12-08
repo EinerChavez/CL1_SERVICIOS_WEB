@@ -1,0 +1,51 @@
+﻿@model PREGUNTA_03_CRUD.Models.Venta
+
+@{
+    ViewData["Title"] = "Crear Venta";
+}
+
+<h1>Crear Venta</h1>
+
+<h4>Ingrese los datos de la venta</h4>
+<hr />
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label">Descripción</label>
+                <input asp-for="Descripcion" class="form-control" placeholder="Ingrese la descripción del producto" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label">Cantidad</label>
+                <input asp-for="Cantidad" class="form-control" placeholder="Ingrese la cantidad de unidades" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PrecioUnitario" class="control-label">Precio Unitario</label>
+                <input asp-for="PrecioUnitario" class="form-control" placeholder="Ingrese el precio por unidad" />
+                <span asp-validation-for="PrecioUnitario" class="text-danger"></span>
+            </div>
+
+            <div class="form-group text-center mt-3">
+                <input type="submit" value="Crear Venta" class="btn btn-success" />
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="Index" class="btn btn-secondary">Volver al listado</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

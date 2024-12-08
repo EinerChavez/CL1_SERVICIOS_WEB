@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Edades de las Personas";
+}
+<h1>@ViewData["Title"]</h1>
+
+@{
+   
+    int edadJuan = 11;
+    int edadPedro = edadJuan - 8; 
+
+    string ObtenerEtapa(int edad)
+    {
+        if (edad >= 0 && edad <= 5)
+            return "Infancia";
+        else if (edad >= 6 && edad <= 11)
+            return "Niñez";
+        else if (edad >= 12 && edad <= 19)
+            return "Adolescencia";
+        else if (edad >= 20 && edad <= 24)
+            return "Juventud";
+        else if (edad >= 25 && edad <= 59)
+            return "Adultez";
+        else
+            return "Ancianidad";
+    }
+
+    int AñosParaSiguienteEtapa(int edad)
+    {
+        if (edad >= 0 && edad <= 5)
+            return 6 - edad;
+        else if (edad >= 6 && edad <= 11)
+            return 12 - edad;
+        else if (edad >= 12 && edad <= 19)
+            return 20 - edad;
+        else if (edad >= 20 && edad <= 24)
+            return 25 - edad;
+        else if (edad >= 25 && edad <= 59)
+            return 60 - edad;
+        else
+            return 0;
+    }
+
+    string etapaJuan = ObtenerEtapa(edadJuan);
+    string etapaPedro = ObtenerEtapa(edadPedro);
+    int faltaJuan = AñosParaSiguienteEtapa(edadJuan);
+    int faltaPedro = AñosParaSiguienteEtapa(edadPedro);
+}
+
+<div class="container mt-4">
+  
+    <div class="card mb-3 text-primary" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#f8f9fa';" onmouseout="this.style.backgroundColor='';">
+        <div class="card-body">
+            <p class="card-text">
+                Juan tiene @edadJuan años, está en la etapa de @etapaJuan y le falta @faltaJuan
+                @Html.Raw(faltaJuan == 1 ? "año" : "años") para pasar a la etapa de @ObtenerEtapa(edadJuan + faltaJuan).
+            </p>
+        </div>
+    </div>
+
+    <div class="card text-danger" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#f8f9fa';" onmouseout="this.style.backgroundColor='';">
+        <div class="card-body">
+            <p class="card-text">
+                Pedro tiene @edadPedro años, está en la etapa de @etapaPedro y le falta @faltaPedro
+                @Html.Raw(faltaPedro == 1 ? "año" : "años") para pasar a la etapa de @ObtenerEtapa(edadPedro + faltaPedro).
+            </p>
+        </div>
+    </div>
+
+</div>
+
+

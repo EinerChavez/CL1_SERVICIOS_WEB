@@ -1,0 +1,64 @@
+﻿@model IEnumerable<PREGUNTA_03_CRUD.Models.Venta>
+
+@{
+    ViewData["Title"] = "Lista de Ventas";
+    decimal total = 0;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="get" asp-action="Index" class="mb-3">
+    <div class="input-group">
+        <input type="text" name="search" class="form-control" placeholder="Buscar por descripción" value="@ViewData["Search"]" />
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+</form>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Crear Nueva Venta</a>
+</p>
+
+<div class="row">
+    @if (Model != null && Model.Any())
+    {
+        int index = 1;
+        foreach (var item in Model)
+        {
+            decimal subtotal = item.Cantidad * item.PrecioUnitario;
+            total += subtotal;
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Venta N.º @index</h5>
+                        <p class="card-text"><strong>Descripción:</strong> @Html.DisplayFor(modelItem => item.Descripcion)</p>
+                        <p class="card-text"><strong>Cantidad:</strong> @Html.DisplayFor(modelItem => item.Cantidad)</p>
+                        <p class="card-text"><strong>Precio Unitario:</strong> @Html.DisplayFor(modelItem => item.PrecioUnitario)</p>
+                        <p class="card-text"><strong>SubTotal:</strong> S/ @subtotal.ToString("N2")</p>
+                        <div>
+                            <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                            <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@item.Id">Detalles</a>
+                            <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            index++;
+        }
+    }
+    else
+    {
+        <div class="col-12">
+            <div class="alert alert-warning text-center" role="alert">
+                No hay datos disponibles
+            </div>
+        </div>
+    }
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="alert @(total > 100 ? "alert-success" : total < 30 ? "alert-danger" : "alert-info") text-end" role="alert">
+            <strong>TOTAL:</strong> S/ @total.ToString("N2")
+        </div>
+    </div>
+</div>

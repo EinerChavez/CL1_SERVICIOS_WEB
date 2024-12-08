@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PREGUNTA_03_CRUD.props" />
+</Project>
